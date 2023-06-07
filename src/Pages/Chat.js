@@ -3,7 +3,7 @@ import Chatting from '../Components/Chatting';
 import Sidebar from '../Components/Sidebar';
 import '../CSS/Chat.css'
 import instance from '../Utils/axios'
-import Logo from '../Images/Chat.png' // here i have to change it.
+import Logo from '../Images/Chat.png';
 import Pusher from 'pusher-js';
 
 let userContact;
